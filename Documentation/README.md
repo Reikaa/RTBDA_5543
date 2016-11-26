@@ -19,3 +19,13 @@ Lab 5 Link - https://github.com/meetsriharsha/RTBDA_5543/wiki/Lab-5-Video-Classi
 
 Lab 6 Link - https://github.com/meetsriharsha/RTBDA_5543/wiki/Lab-6-Kafka-Producer-Consumer-Demo
 >>>>>>> 115993e215f5e804e8f8d5271a19eaa0979a1909
+
+Lab 7 Link - https://github.com/meetsriharsha/RTBDA_5543/tree/master/Source/Lab7%20%26%208
+
+Lab 8 Link - https://github.com/meetsriharsha/RTBDA_5543/tree/master/Source/Lab7%20%26%208
+
+Lab 9 Link - https://github.com/meetsriharsha/RTBDA_5543/tree/master/Source/Lab9
+
+Lab 10 Link - https://github.com/meetsriharsha/RTBDA_5543/tree/master/Source/Lab10
+
+
